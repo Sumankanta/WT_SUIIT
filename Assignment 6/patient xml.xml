@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient>
+    <inpatient>
+        <name>Kumar Dash</name>
+        <age>65</age>
+        <Date>
+            <AdmissionDt>12.jan.22</AdmissionDt>
+            <DischargeDt>15.jan.22</DischargeDt>
+        </Date>
+        <Dignosis>Stomach Infection</Dignosis>
+    </inpatient>
+    <inpatient>
+        <name>Krutartha Acharya</name>
+        <age>73</age>
+        <Date>
+            <AdmissionDt>13.jun.22</AdmissionDt>
+            <DischargeDt>18.jun.22</DischargeDt>
+        </Date>
+        <Dignosis>Heart Transplant</Dignosis>
+    </inpatient>
+    <inpatient>
+        <name>Atharba Panigrahi</name>
+        <age>34</age>
+        <Date>
+            <AdmissionDt>1.may.22</AdmissionDt>
+            <DischargeDt>15.may.22</DischargeDt>
+        </Date>
+        <Dignosis>Cancer</Dignosis>
+    </inpatient>
+    <outpatient>
+        <name>Bhabani Prasad subudhi</name>
+        <age>42</age>
+        <Dignosis>Fever</Dignosis>
+    </outpatient>
+    <outpatient>
+        <name>Prathan Saraf</name>
+        <age>21</age>
+        <Dignosis>Cold</Dignosis>
+    </outpatient>
+    <outpatient>
+        <name>Mohammad Ansari</name>
+        <age>34</age>
+        <Dignosis>Vomiting</Dignosis>
+    </outpatient>
+</Patient>

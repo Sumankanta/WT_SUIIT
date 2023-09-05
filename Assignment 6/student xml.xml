@@ -1,0 +1,112 @@
+<class>
+<student>
+<roll>01</roll>
+<name>MBaku</name>
+<semester>
+<sem1>1st Semester
+<cgpa>10</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>10</cgpa></sem2>
+</semester>
+<stream>MSCCS</stream>
+</student>
+<student>
+<roll>02</roll>
+<name>Iron Man</name>
+<semester>
+<sem1>1st Semester
+<cgpa>6.4</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>5.9</cgpa></sem2>
+</semester>
+<stream>MSCCS</stream>
+</student>
+<student>
+<roll>03</roll>
+<name>Captain America</name>
+<semester>
+<sem1>1st Semester
+<cgpa>6.1</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>6.2</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+<student>
+<roll>04</roll>
+<name>Black Widow</name>
+<semester>
+<sem1>1st Semester
+<cgpa>4.5</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>5.2</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+<student>
+<roll>05</roll>
+<name>Wanda</name>
+<semester>
+<sem1>1st Semester
+<cgpa>6.4</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>5.2</cgpa></sem2>
+</semester>
+<stream>MSCCS</stream>
+</student>
+<student>
+<roll>06</roll>
+<name>Vision</name>
+<semester>
+<sem1>1st Semester
+<cgpa>7.4</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>9.3</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+<student>
+<roll>07</roll>
+<name>Hulk</name>
+<semester>
+<sem1>1st Semester
+<cgpa>7.4</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>7.8</cgpa></sem2>
+</semester>
+<stream>Loki</stream>
+</student>
+<student>
+<roll>08</roll>
+<name>Ant Man</name>
+<semester>
+<sem1>1st Semester
+<cgpa>5.6</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>5.2</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+<student>
+<roll>09</roll>
+<name>Thor</name>
+<semester>
+<sem1>1st Semester
+<cgpa>7.4</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>8.6</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+<student>
+<roll>10</roll>
+<name>SpiderMan</name>
+<semester>
+<sem1>1st Semester
+<cgpa>6.8</cgpa></sem1>
+<sem2>2nd Semester
+<cgpa>7.5</cgpa></sem2>
+</semester>
+<stream>MCA</stream>
+</student>
+</class>

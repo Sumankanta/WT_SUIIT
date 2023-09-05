@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hospital>
+    <Doctor>
+        <Name>DR.Mohan Nag</Name>
+        <D_ID>29478493</D_ID>
+        <Age>37</Age>
+        <Specialization>Aurthopedic</Specialization>
+        <Experience>8yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Raja Mouli Thakkar</Name>
+        <D_ID>87358742</D_ID>
+        <Age>31</Age>
+        <Specialization>Dermatologists</Specialization>
+        <Experience>2yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Maheswari das</Name>
+        <D_ID>87548742</D_ID>
+        <Age>45</Age>
+        <Specialization>Cardiologists</Specialization>
+        <Experience>6yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Bibhusan Naik</Name>
+        <D_ID>367485493</D_ID>
+        <Age>35</Age>
+        <Specialization>Anesthesiologists</Specialization>
+        <Experience>3.5yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Amit Kumar Jena</Name>
+        <D_ID>85748434</D_ID>
+        <Age>34</Age>
+        <Specialization>Medicine Specialist</Specialization>
+        <Experience>7yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Neha Kumari</Name>
+        <D_ID>8754253</D_ID>
+        <Age>57</Age>
+        <Specialization>Endocrinologists</Specialization>
+        <Experience>1yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Alia Bhat</Name>
+        <D_ID>56584992</D_ID>
+        <Age>28</Age>
+        <Specialization>Gastroenterologists</Specialization>
+        <Experience>2yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Kailash Alubalia</Name>
+        <D_ID>9874739</D_ID>
+        <Age>52</Age>
+        <Specialization>Geriatric Medicine Specialists</Specialization>
+        <Experience>3yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Chandan Ahuja</Name>
+        <D_ID>48980036</D_ID>
+        <Age>25</Age>
+        <Specialization>Hematologists</Specialization>
+        <Experience>5.5yr</Experience>
+    </Doctor>
+    <Doctor>
+        <Name>DR.Karan Malhotra</Name>
+        <D_ID>29425373</D_ID>
+        <Age>35</Age>
+        <Specialization>Infectious Disease Specialists </Specialization>
+        <Experience>2yr</Experience>
+    </Doctor>
+</Hospital>

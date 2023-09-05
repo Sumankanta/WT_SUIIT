@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+    <script>
+        function validate(){
+            var username=document.getElementById("uname");
+            var res=username.value;
+            var regexp=/^[7-9]\d{9}$/;
+            if(regexp.test(res))
+            {
+                alert("valid");
+            }
+            else{
+                alert("invalid")
+            }
+        }
+    </script>
+</head>
+<body>
+    <form onsubmit="return validate()">
+        <input id="uname" type="text" placeholder="username">
+        <input type="submit" value="SUBMIT">
+
+    </form>
+</body>
+</html>
